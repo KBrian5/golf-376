@@ -17,7 +17,7 @@ const golfGames = [
   {
     game: "Echo Lab",
     author: "Created by: Ashlyn Paruzynski",
-    url: "somewhere4",
+    url: "https://ashmcflash.github.io/echo-lab/",
   },
   {
     game: "Dob Facts",
