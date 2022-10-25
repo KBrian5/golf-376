@@ -59,11 +59,7 @@ const golfGames = [
     author: "Created by: Garrett Dodd",
     url: "https://garrettdodd.tech/CIS-376/BRAVO_LAB/index.html",
   },
-  {
-    game: "something3",
-    author: "Created by: Hardik Gupta",
-    url: "somewhere4",
-  },
+ 
   {
     game: "Delta Lab",
     author: "Created by: Hau Huynh",
@@ -130,3 +126,11 @@ const golfGames = [
     url: "https://almostheaven52.github.io/Echo-Lab/",
   },
 ];
+
+/*
+{
+  game: "Unknown",
+  author: "Created by: Hardik Gupta",
+  url: "Unknow",
+},
+*/
